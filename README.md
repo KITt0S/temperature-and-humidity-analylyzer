@@ -1,6 +1,6 @@
 # Temperature and humidity analyzer
 
-This is a funny app letting play with can-bus protocol, dbc scheme and can-bus coding and encoding.
+This is a funny app letting play with can-bus protocol, dbc scheme and can-bus encoding and decoding.
 
 Things I've made:
 
