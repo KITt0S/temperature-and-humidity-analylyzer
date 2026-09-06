@@ -12,6 +12,8 @@ Things I've made:
 5. Written few tests for letting everything be working fine
 
 PS. dbc scheme for this can-bus protocol can be found via resources folder
+
 PPS. Tests can be extended I've just been too bored written all of them for 100% coverage so I wrote them on every bug
 I've found to let application be fully workable.
+
 PPPS. Any ideas are greatly appreciated.
