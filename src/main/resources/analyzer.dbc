@@ -1,0 +1,20 @@
+dbc
+VERSION ""
+
+NS_ :
+    NS_DESC_
+    CM_
+    BA_DEF_
+    BA_
+    BA_DEF_DEF_
+
+BS_:
+
+BU_: Arduino PC
+
+BO_ 170 HTU21D_Temperature: 2 Arduino
+ SG_ Temperature : 7|15@0+ (0.01,0) [0|180] "degC" PC
+
+BO_ 171 HTU21D_Humidity: 2 Arduino
+ SG_ Humidity : 7|14@0+ (0.01,0) [0|100] "%" PC
+
