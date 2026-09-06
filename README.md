@@ -13,7 +13,7 @@ Things I've made:
 
 PS. dbc scheme for this can-bus protocol can be found via resources folder
 
-PPS. Tests can be extended I've just been too bored written all of them for 100% coverage so I wrote them on every bug
+PPS. Tests can be extended I've just been too bored writing all of them for 100% coverage so I wrote them on every bug
 I've found to let application be fully workable.
 
 PPPS. Any ideas are greatly appreciated.
